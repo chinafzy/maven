@@ -160,7 +160,7 @@ under the License.
     <mirror>
         <id>nexus</id>
         <mirrorOf>central</mirrorOf>
-        <url>http://47.99.116.48:8081/repository/maven-public/</url>
+        <url>https://maven.aliyun.com/repository/public</url>
         <name>local nexus</name>
     </mirror>
   </mirrors>
